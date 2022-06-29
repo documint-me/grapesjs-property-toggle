@@ -1,0 +1,23 @@
+{
+  "name": "grapesjs-property-toggle",
+  "version": "1.0.0",
+  "description": "Grapesjs Property Toggle",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ju99ernaut/grapesjs-property-toggle.git"
+  },
+  "scripts": {
+    "start": "grapesjs-cli serve",
+    "build": "grapesjs-cli build",
+    "bump": "npm version patch -m 'Bump v%s'"
+  },
+  "keywords": [
+    "grapesjs",
+    "plugin"
+  ],
+  "devDependencies": {
+    "grapesjs-cli": "^3.0.1"
+  },
+  "license": "MIT"
+}
