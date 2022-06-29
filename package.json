@@ -1,8 +1,9 @@
 {
-  "name": "grapesjs-property-toggle",
+  "name": "@documint/grapesjs-property-toggle",
   "version": "1.0.1",
   "description": "Grapesjs Property Toggle",
   "main": "dist/index.js",
+  "author": "Documint",
   "repository": {
     "type": "git",
     "url": "https://github.com/documint-me/grapesjs-property-toggle.git"
