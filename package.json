@@ -1,11 +1,11 @@
 {
   "name": "grapesjs-property-toggle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grapesjs Property Toggle",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ju99ernaut/grapesjs-property-toggle.git"
+    "url": "https://github.com/documint-me/grapesjs-property-toggle.git"
   },
   "scripts": {
     "start": "grapesjs-cli serve",
