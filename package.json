@@ -4,6 +4,7 @@
   "description": "Grapesjs Property Toggle",
   "main": "dist/index.js",
   "author": "Documint",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/documint-me/grapesjs-property-toggle.git"
